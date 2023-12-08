@@ -1,7 +1,8 @@
 #ifndef HEADER_H
 #define HEADER_H
 
-
+#include <stddef.h>
+#include<stdio.h>
 
 /**
  * struct dlistint_s - doubly linked list
